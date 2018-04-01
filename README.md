@@ -27,3 +27,9 @@ TODO:
   - Video links
   - Organize code
   - Write a better readme
+  
+  
+  Contributors:
+  - github.com/tallestfinder
+  - github.com/nikunjmukesh
+  - github.com/nyxkh
